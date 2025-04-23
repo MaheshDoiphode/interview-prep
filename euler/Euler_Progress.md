@@ -3,7 +3,7 @@ https://www.freecodecamp.org/learn/project-euler
 
 &#x2611; Problem 1: Multiples of 3 or 5 
 
-Problem 2: Even Fibonacci Numbers
+&#x2611; Problem 2: Even Fibonacci Numbers
 
 Problem 3: Largest prime factor
 
